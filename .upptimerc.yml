@@ -3,21 +3,21 @@ owner: lensapp # Your GitHub organization or username, where this repository liv
 repo: k8slens-status # The name of this repository
 
 sites:
-  - name: k8slens-api-docs
+  - name: api-docs.k8slens.dev
     url: https://api-docs.k8slens.dev
-  - name: lenscloud-api
+  - name: api.k8slens.dev
     url: https://api.k8slens.dev
-  - name: lenscloud-app
+  - name: app.k8slens.dev
     url: https://app.k8slens.dev
-  - name: k8slens-docs
+  - name: docs.k8slens.dev
     url: https://docs.k8slens.dev
-  - name: lenscloud-eu-bored
+  - name: eu.bored.k8slens.dev
     url: https://eu.bored.k8slens.dev/healthz
-  - name: lenscloud-survey
+  - name: survey.k8slens.dev
     url: https://survey.k8slens.dev/api
-  - name: lenscloud-us-bored
+  - name: us.bored.k8slens.dev
     url: https://us.bored.k8slens.dev/healthz
-  - name: k8slens-website
+  - name: k8slens.dev
     url: https://k8slens.dev
 
 status-website:
@@ -27,13 +27,13 @@ status-website:
   # baseUrl: /demo-upptime
   logoUrl: https://raw.githubusercontent.com/lensapp/lens/master/docs/img/favicon.ico
   name: k8slens
-  introTitle: "**K8slens Service Status** "
-  introMessage: This is the status page for all k8slens services
+  introTitle: "**Lens Cloud Service Status**"
+  introMessage: This is the status page for all Lens Cloud services
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/lensapp/k8slens-status
+    - title: k8slens.dev
+      href: https://k8slens.dev
 
 assignees:
   - stevejr
