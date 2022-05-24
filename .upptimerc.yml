@@ -27,13 +27,13 @@ status-website:
   # baseUrl: /demo-upptime
   logoUrl: https://raw.githubusercontent.com/lensapp/lens/master/docs/img/favicon.ico
   name: k8slens
-  introTitle: "**K8slens Service Status** "
-  introMessage: This is the status page for all k8slens services
+  introTitle: "**Lens Service Status** "
+  introMessage: This is the status page for all Lens cloud services
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/lensapp/k8slens-status
+    - title: Home
+      href: https://k8slens.dev
 
 assignees:
   - stevejr
