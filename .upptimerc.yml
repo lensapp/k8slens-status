@@ -11,6 +11,8 @@ sites:
     url: https://app.k8slens.dev
   - name: docs.k8slens.dev
     url: https://docs.k8slens.dev
+  - name: downloads.k8slens.dev
+    url: https://downloads.k8slens.dev
   - name: eu.bored.k8slens.dev
     url: https://eu.bored.k8slens.dev/healthz
   - name: k8slens.dev
