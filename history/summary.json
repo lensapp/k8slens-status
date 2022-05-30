@@ -40,19 +40,19 @@
     "url": "https://app.k8slens.dev/auth/realms/lensCloud/protocol/openid-connect/3p-cookies/step1.html",
     "icon": "https://favicons.githubusercontent.com/app.k8slens.dev",
     "slug": "app-k8slens-dev",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1539,
-    "timeDay": 4277,
-    "timeWeek": 1539,
-    "timeMonth": 1539,
-    "timeYear": 1539,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1463,
+    "timeDay": 3488,
+    "timeWeek": 1463,
+    "timeMonth": 1463,
+    "timeYear": 1463,
     "dailyMinutesDown": {
-      "2022-05-30": 15
+      "2022-05-30": 22
     }
   },
   {
