@@ -40,7 +40,7 @@
     "url": "https://app.k8slens.dev/auth/realms/lensCloud/protocol/openid-connect/3p-cookies/step1.html",
     "icon": "https://favicons.githubusercontent.com/app.k8slens.dev",
     "slug": "app-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "97.31%",
     "uptimeWeek": "99.62%",
