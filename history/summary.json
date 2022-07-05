@@ -4,19 +4,19 @@
     "url": "https://api.k8slens.dev",
     "icon": "https://favicons.githubusercontent.com/api.k8slens.dev",
     "slug": "api-k8slens-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 443,
-    "timeWeek": 364,
-    "timeMonth": 534,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.91%",
+    "time": 483,
+    "timeDay": 395,
+    "timeWeek": 357,
+    "timeMonth": 527,
+    "timeYear": 483,
     "dailyMinutesDown": {
-      "2022-07-05": 0
+      "2022-07-05": 55
     }
   },
   {
