@@ -26,9 +26,9 @@
     "url": "https://api-docs.k8slens.dev",
     "icon": "https://favicons.githubusercontent.com/api-docs.k8slens.dev",
     "slug": "api-docs-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 691,
     "timeMonth": 257,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "app.k8slens.dev",
@@ -72,9 +74,9 @@
     "url": "https://docs.k8slens.dev",
     "icon": "https://favicons.githubusercontent.com/docs.k8slens.dev",
     "slug": "docs-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -84,6 +86,7 @@
     "timeMonth": 132,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-07-29": 14
     }
   },
@@ -130,9 +133,9 @@
     "url": "https://k8slens.dev",
     "icon": "https://favicons.githubusercontent.com/k8slens.dev",
     "slug": "k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +144,9 @@
     "timeWeek": 118,
     "timeMonth": 107,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "survey.k8slens.dev",
