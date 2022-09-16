@@ -171,19 +171,19 @@
     "url": "https://us.bored.k8slens.dev/healthz",
     "icon": "https://favicons.githubusercontent.com/us.bored.k8slens.dev",
     "slug": "us-bored-k8slens-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 259,
-    "timeWeek": 169,
-    "timeMonth": 159,
+    "timeDay": 185,
+    "timeWeek": 162,
+    "timeMonth": 158,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-09-16": 0
+      "2022-09-16": 24
     }
   }
 ]
