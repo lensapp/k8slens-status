@@ -1,7 +1,7 @@
 url: https://eu.bored.k8slens.dev/healthz
-status: down
-code: 404
-responseTime: 341
-lastUpdated: 2022-09-29T13:01:29.116Z
+status: up
+code: 200
+responseTime: 469
+lastUpdated: 2022-09-29T13:47:33.928Z
 startTime: Tue May 24 2022 14:55:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
