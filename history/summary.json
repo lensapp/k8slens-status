@@ -159,19 +159,19 @@
     "url": "https://survey.k8slens.dev/api",
     "icon": "https://icons.duckduckgo.com/ip3/survey.k8slens.dev.ico",
     "slug": "survey-k8slens-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 368,
-    "timeDay": 447,
-    "timeWeek": 417,
-    "timeMonth": 451,
+    "timeDay": 416,
+    "timeWeek": 410,
+    "timeMonth": 448,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-11-14": 7
+      "2022-11-14": 13
     }
   },
   {
