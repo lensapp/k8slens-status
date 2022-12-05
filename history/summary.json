@@ -49,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.k8slens.dev.ico",
     "slug": "app-k8slens-dev",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 870,
     "timeDay": 327,
     "timeWeek": 371,
@@ -181,9 +181,9 @@
     "url": "https://us.bored.k8slens.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/us.bored.k8slens.dev.ico",
     "slug": "us-bored-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -193,6 +193,7 @@
     "timeMonth": 170,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2022-12-05": 0,
       "2022-09-29": 134,
       "2022-09-16": 24
     }
