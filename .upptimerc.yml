@@ -15,6 +15,8 @@ sites:
     url: https://downloads.k8slens.dev/ide/latest.yml
   - name: eu.bored.k8slens.dev
     url: https://eu.bored.k8slens.dev/healthz
+  - name: forums.k8slens.dev
+    url: https://forums.k8slens.dev
   - name: k8slens.dev
     url: https://k8slens.dev
   - name: survey.k8slens.dev
@@ -39,7 +41,6 @@ status-website:
 
 assignees:
   - stevejr
-  - JAtula
   
 i18n:
   footer: Copyright ©2022 Mirantis Inc. - All rights reserved. 
