@@ -146,18 +146,20 @@
     "url": "https://forums.k8slens.dev",
     "icon": "https://icons.duckduckgo.com/ip3/forums.k8slens.dev.ico",
     "slug": "forums-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 607,
-    "timeWeek": 592,
-    "timeMonth": 609,
-    "timeYear": 602,
-    "dailyMinutesDown": {}
+    "time": 596,
+    "timeDay": 474,
+    "timeWeek": 561,
+    "timeMonth": 600,
+    "timeYear": 596,
+    "dailyMinutesDown": {
+      "2023-04-26": 0
+    }
   },
   {
     "name": "k8slens.dev",
