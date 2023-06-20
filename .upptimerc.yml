@@ -31,7 +31,7 @@ status-website:
   # baseUrl: /demo-upptime
   logoUrl: https://k8slens.dev/images/lens-logo-icon.svg
   name: Lens
-  introTitle: "**Lens Cloud Status**"
+  introTitle: "**Lens Cloud Service Status**"
   introMessage: This is the status page for all Lens Cloud services
   navbar:
     - title: Status
