@@ -1,7 +1,7 @@
 url: https://app.k8slens.dev/auth/realms/lensCloud/protocol/openid-connect/3p-cookies/step1.html
 status: up
 code: 200
-responseTime: 362
-lastUpdated: 2023-07-14T23:00:44.878Z
+responseTime: 309
+lastUpdated: 2023-07-15T23:00:30.976Z
 startTime: Tue May 24 2022 14:55:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
