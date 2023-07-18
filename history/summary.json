@@ -4,10 +4,10 @@
     "url": "https://api.k8slens.dev",
     "icon": "https://icons.duckduckgo.com/ip3/api.k8slens.dev.ico",
     "slug": "api-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 433,
@@ -16,6 +16,7 @@
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2023-07-18": 1,
       "2023-07-01": 10,
       "2023-04-29": 10,
       "2022-11-18": 66,
@@ -184,9 +185,9 @@
     "url": "https://survey.k8slens.dev/api",
     "icon": "https://icons.duckduckgo.com/ip3/survey.k8slens.dev.ico",
     "slug": "survey-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -196,6 +197,7 @@
     "timeMonth": 411,
     "timeYear": 412,
     "dailyMinutesDown": {
+      "2023-07-18": 0,
       "2023-01-24": 9,
       "2022-11-14": 13
     }
