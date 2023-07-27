@@ -19,6 +19,8 @@ sites:
     url: https://forums.k8slens.dev
   - name: k8slens.dev
     url: https://k8slens.dev
+  - name: store.k8slens.dev
+    url: https://store.k8slens.dev
   - name: survey.k8slens.dev
     url: https://survey.k8slens.dev/api
   - name: us.bored.k8slens.dev
