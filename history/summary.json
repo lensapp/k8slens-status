@@ -34,7 +34,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 155,
     "timeDay": 135,
     "timeWeek": 191,
@@ -81,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 70,
     "timeWeek": 104,
     "timeMonth": 125,
-    "timeYear": 144,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2023-01-19": 9
     }
@@ -96,9 +96,9 @@
     "url": "https://downloads.k8slens.dev/ide/latest.yml",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.k8slens.dev.ico",
     "slug": "downloads-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.84%",
@@ -108,6 +108,7 @@
     "timeMonth": 310,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2023-09-15": 0,
       "2023-09-05": 6,
       "2023-09-03": 821
     }
@@ -170,12 +171,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 82,
     "timeWeek": 128,
     "timeMonth": 114,
-    "timeYear": 106,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2023-01-19": 9
     }
