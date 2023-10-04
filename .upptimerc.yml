@@ -25,6 +25,18 @@ sites:
     url: https://survey.k8slens.dev/api
   - name: us.bored.k8slens.dev
     url: https://us.bored.k8slens.dev/healthz
+  - name: apps.lenscloud.io
+    url: https://apps.lenscloud.io
+    icon: https://apps.lenscloud.io/favicon.svg
+    assignees:
+      - dechegaray
+      - koncar
+  - name: api.lenscloud.io
+    url: https://api.lenscloud.io/
+    icon: https://apps.lenscloud.io/favicon.svg
+    assignees:
+      - dechegaray
+      - koncar
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -43,8 +55,8 @@ status-website:
 
 assignees:
   - stevejr
-  
+
 i18n:
-  footer: Copyright ©2022 Mirantis Inc. - All rights reserved. 
+  footer: Copyright ©2022 Mirantis Inc. - All rights reserved.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
