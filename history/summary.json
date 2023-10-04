@@ -245,5 +245,41 @@
     "dailyMinutesDown": {
       "2022-12-05": 32
     }
+  },
+  {
+    "name": "apps.lenscloud.io",
+    "url": "https://apps.lenscloud.io",
+    "icon": "https://apps.lenscloud.io/favicon.svg",
+    "slug": "apps-lenscloud-io",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "api.lenscloud.io",
+    "url": "https://api.lenscloud.io/",
+    "icon": "https://apps.lenscloud.io/favicon.svg",
+    "slug": "api-lenscloud-io",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
