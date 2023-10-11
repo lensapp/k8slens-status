@@ -271,19 +271,19 @@
     "url": "https://api.lenscloud.io/",
     "icon": "https://apps.lenscloud.io/favicon.svg",
     "slug": "api-lenscloud-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 205,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 224,
+    "timeDay": 207,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-10-11": 0
+      "2023-10-11": 7
     }
   }
 ]
