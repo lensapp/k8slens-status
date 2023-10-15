@@ -1,7 +1,7 @@
 url: https://apps.lenscloud.io
-status: down
-code: 503
-responseTime: 125
-lastUpdated: 2023-10-15T11:41:17.895Z
+status: up
+code: 200
+responseTime: 1521
+lastUpdated: 2023-10-15T11:48:05.723Z
 startTime: 2023-10-04T19:13:45.030Z
 generator: Upptime <https://github.com/upptime/upptime>
