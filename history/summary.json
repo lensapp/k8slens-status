@@ -288,5 +288,23 @@
       "2023-10-15": 7,
       "2023-10-11": 7
     }
+  },
+  {
+    "name": "learn.lenscloud.io",
+    "url": "https://learn.lenscloud.io/",
+    "icon": "https://apps.lenscloud.io/favicon.svg",
+    "slug": "learn-lenscloud-io",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
