@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.k8slens.dev.ico",
     "slug": "app-k8slens-dev",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
@@ -300,9 +300,9 @@
     "url": "https://learn.lenscloud.io/",
     "icon": "https://apps.lenscloud.io/favicon.svg",
     "slug": "learn-lenscloud-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -311,6 +311,8 @@
     "timeWeek": 421,
     "timeMonth": 365,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 0
+    }
   }
 ]
