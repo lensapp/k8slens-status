@@ -116,9 +116,9 @@
     "url": "https://eu.bored.k8slens.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/eu.bored.k8slens.dev.ico",
     "slug": "eu-bored-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 427,
     "timeMonth": 423,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-30": 0
+    }
   },
   {
     "name": "forums.k8slens.dev",
