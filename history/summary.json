@@ -94,9 +94,7 @@
     "timeWeek": 132,
     "timeMonth": 114,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2023-01-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "downloads.k8slens.dev",
@@ -199,9 +197,7 @@
     "timeWeek": 86,
     "timeMonth": 94,
     "timeYear": 103,
-    "dailyMinutesDown": {
-      "2023-01-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "store.k8slens.dev",
