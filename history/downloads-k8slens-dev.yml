@@ -1,7 +1,7 @@
 url: https://downloads.k8slens.dev/ide/latest.yml
-status: down
-code: 500
-responseTime: 203
-lastUpdated: 2024-02-04T05:20:02.771Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2024-02-04T05:27:15.531Z
 startTime: 2022-05-24T15:57:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
