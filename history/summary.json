@@ -189,9 +189,9 @@
     "url": "https://k8slens.dev",
     "icon": "https://icons.duckduckgo.com/ip3/k8slens.dev.ico",
     "slug": "k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,7 +200,9 @@
     "timeWeek": 63,
     "timeMonth": 95,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "store.k8slens.dev",
