@@ -25,6 +25,8 @@ sites:
     url: https://survey.k8slens.dev/api
   - name: us.bored.k8slens.dev
     url: https://us.bored.k8slens.dev/healthz
+  - name: checkout.k8slens.dev
+    url: https://checkout.k8slens.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
