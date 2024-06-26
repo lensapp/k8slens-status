@@ -272,18 +272,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/k8slens.zendesk.com.ico",
     "slug": "https-k8slens-zendesk-com",
     "status": "down",
-    "uptime": "6.75%",
-    "uptimeDay": "6.75%",
-    "uptimeWeek": "6.75%",
-    "uptimeMonth": "6.75%",
-    "uptimeYear": "6.75%",
+    "uptime": "3.36%",
+    "uptimeDay": "3.36%",
+    "uptimeWeek": "3.36%",
+    "uptimeMonth": "3.36%",
+    "uptimeYear": "3.36%",
     "time": 538,
     "timeDay": 538,
     "timeWeek": 538,
     "timeMonth": 538,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 1
     }
   }
 ]
