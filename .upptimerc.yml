@@ -46,7 +46,7 @@ status-website:
       href: /
     - title: k8slens.dev
       href: https://k8slens.dev
-  favicon: https://status.k8slens.dev/favicon.ico
+  favicon: https://k8slens.dev/images/lens-logo-icon.svg
   
 assignees:
   - stevejr
