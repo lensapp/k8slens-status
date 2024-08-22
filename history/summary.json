@@ -224,7 +224,7 @@
     "timeDay": 463,
     "timeWeek": 630,
     "timeMonth": 578,
-    "timeYear": 610,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2023-11-30": 6
     }
@@ -234,9 +234,9 @@
     "url": "https://us.bored.k8slens.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/us.bored.k8slens.dev.ico",
     "slug": "us-bored-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -246,6 +246,7 @@
     "timeMonth": 155,
     "timeYear": 180,
     "dailyMinutesDown": {
+      "2024-08-22": 0,
       "2023-11-30": 24
     }
   },
