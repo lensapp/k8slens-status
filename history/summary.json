@@ -190,22 +190,22 @@
     "url": "https://k8slens.dev",
     "icon": "https://icons.duckduckgo.com/ip3/k8slens.dev.ico",
     "slug": "k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "68.84%",
-    "uptimeWeek": "87.90%",
-    "uptimeMonth": "97.22%",
+    "uptimeDay": "69.26%",
+    "uptimeWeek": "87.98%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "99.77%",
-    "time": 442,
-    "timeDay": 570,
-    "timeWeek": 599,
+    "time": 443,
+    "timeDay": 567,
+    "timeWeek": 598,
     "timeMonth": 599,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2024-09-08": 409,
       "2024-09-07": 391,
       "2024-09-06": 271,
-      "2024-09-05": 154
+      "2024-09-05": 145
     }
   },
   {
