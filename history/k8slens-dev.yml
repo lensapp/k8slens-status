@@ -1,7 +1,7 @@
 url: https://k8slens.dev
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2024-09-09T09:36:09.369Z
+status: down
+code: 500
+responseTime: 442
+lastUpdated: 2024-09-09T09:42:48.638Z
 startTime: 2022-05-24T14:55:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
