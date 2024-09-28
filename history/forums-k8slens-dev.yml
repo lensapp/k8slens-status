@@ -1,7 +1,7 @@
 url: https://forums.k8slens.dev
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2024-09-27T23:00:38.437Z
+status: down
+code: 500
+responseTime: 215
+lastUpdated: 2024-09-28T03:48:35.691Z
 startTime: 2023-03-14T21:00:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
