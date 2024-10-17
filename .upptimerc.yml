@@ -31,6 +31,12 @@ sites:
     expectedStatusCodes:
     - 301
     __dangerous__body_down_if_text_missing: 'You are being <a href="https://support.k8slens.dev/hc">redirected</a>'
+  - name: v3.recurly.com
+    url: https://v3.recurly.com/subscriptions
+    headers:
+    - "Accept: application/vnd.recurly.v2021-02-25"
+    expectedStatusCodes:
+    - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
