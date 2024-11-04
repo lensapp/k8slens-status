@@ -14,7 +14,7 @@
     "timeDay": 323,
     "timeWeek": 449,
     "timeMonth": 300,
-    "timeYear": 284,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2024-10-26": 11,
       "2024-10-15": 236,
@@ -156,7 +156,7 @@
     "timeDay": 571,
     "timeWeek": 473,
     "timeMonth": 462,
-    "timeYear": 513,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2024-10-23": 8,
       "2024-10-15": 26,
@@ -231,9 +231,9 @@
     "url": "https://us.bored.k8slens.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/us.bored.k8slens.dev.ico",
     "slug": "us-bored-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -243,6 +243,7 @@
     "timeMonth": 235,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2024-11-04": 0,
       "2024-08-22": 6,
       "2023-11-30": 24
     }
