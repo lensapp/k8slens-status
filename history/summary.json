@@ -227,18 +227,19 @@
     "url": "https://us.bored.k8slens.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/us.bored.k8slens.dev.ico",
     "slug": "us-bored-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
+    "time": 183,
     "timeDay": 265,
     "timeWeek": 177,
     "timeMonth": 185,
     "timeYear": 176,
     "dailyMinutesDown": {
+      "2024-12-15": 0,
       "2024-11-04": 6,
       "2024-08-22": 6
     }
