@@ -1,7 +1,7 @@
 url: https://survey.k8slens.dev/api
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2025-03-31T23:00:36.744Z
+status: down
+code: 503
+responseTime: 214
+lastUpdated: 2025-04-01T09:32:21.581Z
 startTime: 2022-05-24T14:55:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
