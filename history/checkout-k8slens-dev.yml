@@ -1,7 +1,7 @@
 url: https://checkout.k8slens.dev
-status: down
-code: 503
-responseTime: 754
-lastUpdated: 2025-04-01T10:51:39.087Z
+status: up
+code: 200
+responseTime: 1715
+lastUpdated: 2025-04-01T10:58:10.170Z
 startTime: 2024-05-07T09:23:57.638Z
 generator: Upptime <https://github.com/upptime/upptime>
