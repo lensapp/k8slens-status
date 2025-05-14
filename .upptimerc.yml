@@ -27,11 +27,7 @@ sites:
     url: https://checkout.k8slens.dev
   - name: https://k8slens.zendesk.com
     url: https://k8slens.zendesk.com
-    expectedStatusCodes:
-    - 301
-    - 403
     maxRedirects: 0
-    __dangerous__body_down_if_text_missing: 'You are being <a href="https://support.k8slens.dev/hc">redirected</a>'
   - name: v3.recurly.com
     url: https://v3.recurly.com/subscriptions
     headers:
