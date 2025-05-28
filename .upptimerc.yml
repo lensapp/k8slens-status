@@ -25,6 +25,7 @@ sites:
     url: https://us.bored.k8slens.dev/healthz
   - name: checkout.k8slens.dev
     url: https://checkout.k8slens.dev
+    maxRedirects: 0
   - name: https://k8slens.zendesk.com
     url: https://k8slens.zendesk.com
     maxRedirects: 0
