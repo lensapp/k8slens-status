@@ -97,9 +97,9 @@
     "url": "https://downloads.k8slens.dev/ide/latest.yml",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.k8slens.dev.ico",
     "slug": "downloads-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -109,6 +109,7 @@
     "timeMonth": 490,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-16": 36,
       "2024-12-13": 54,
       "2024-10-22": 15
