@@ -1,7 +1,7 @@
 url: https://v3.recurly.com/subscriptions
-status: down
-code: 503
-responseTime: 123
-lastUpdated: 2025-09-30T19:09:45.802Z
+status: up
+code: 401
+responseTime: 198
+lastUpdated: 2025-09-30T19:19:52.868Z
 startTime: 2024-10-17T08:37:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
