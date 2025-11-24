@@ -35,27 +35,30 @@ sites:
     - "Accept: application/vnd.recurly.v2021-02-25"
     expectedStatusCodes:
     - 401
+  - name: lenshq.io
+    url: https://lenshq.io
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.k8slens.dev
   # baseUrl: /demo-upptime
-  logoUrl: https://k8slens.dev/images/lens-logo-icon.svg
+  logoUrl: https://lenshq.io/images/lens-logo-icon.svg
   name: Lens
   introTitle: "**Lens Cloud Service Status**"
   introMessage: This is the status page for all Lens Cloud services
   navbar:
     - title: Status
       href: /
-    - title: k8slens.dev
-      href: https://k8slens.dev
-  faviconSvg: https://k8slens.dev/images/lens-logo-icon.svg
+    - title: lenshq.io
+      href: https://lenshq.io
+  faviconSvg: https://lenshq.io/images/lens-logo-icon.svg
   
 assignees:
   - stevejr
 
 i18n:
-  footer: Copyright ©2024 Mirantis Inc. - All rights reserved.
+  footer: Copyright ©2025 Mirantis Inc. - All rights reserved.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
