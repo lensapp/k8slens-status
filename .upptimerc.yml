@@ -9,6 +9,9 @@ sites:
     url: https://api-docs.k8slens.dev
   - name: app.k8slens.dev
     url: https://app.k8slens.dev/auth/realms/lensCloud/protocol/openid-connect/3p-cookies/step1.html
+  - name: checkout.k8slens.dev
+    url: https://checkout.k8slens.dev
+    maxRedirects: 0
   - name: docs.k8slens.dev
     url: https://docs.k8slens.dev
   - name: downloads.k8slens.dev
@@ -19,25 +22,21 @@ sites:
     url: https://forums.k8slens.dev
   - name: k8slens.dev
     url: https://k8slens.dev
+  - name: k8slens.zendesk.com
+    url: https://k8slens.zendesk.com
+    maxRedirects: 0
+  - name: lenshq.io
+    url: https://lenshq.io
   - name: survey.k8slens.dev
     url: https://survey.k8slens.dev/api
   - name: us.bored.k8slens.dev
     url: https://us.bored.k8slens.dev/healthz
-  - name: checkout.k8slens.dev
-    url: https://checkout.k8slens.dev
-    maxRedirects: 0
-  - name: https://k8slens.zendesk.com
-    url: https://k8slens.zendesk.com
-    maxRedirects: 0
   - name: v3.recurly.com
     url: https://v3.recurly.com/subscriptions
     headers:
     - "Accept: application/vnd.recurly.v2021-02-25"
     expectedStatusCodes:
     - 401
-  - name: lenshq.io
-    url: https://lenshq.io
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
