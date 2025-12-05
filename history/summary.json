@@ -216,18 +216,20 @@
     "url": "https://k8slens.zendesk.com",
     "icon": "https://icons.duckduckgo.com/ip3/k8slens.zendesk.com.ico",
     "slug": "k8slens-zendesk-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 546,
-    "timeWeek": 316,
-    "timeMonth": 332,
-    "timeYear": 332,
-    "dailyMinutesDown": {}
+    "time": 315,
+    "timeDay": 330,
+    "timeWeek": 291,
+    "timeMonth": 315,
+    "timeYear": 315,
+    "dailyMinutesDown": {
+      "2025-12-05": 1
+    }
   },
   {
     "name": "lenshq.io",
