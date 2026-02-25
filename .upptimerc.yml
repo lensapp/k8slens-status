@@ -19,7 +19,7 @@ sites:
   - name: eu.bored.k8slens.dev
     url: https://eu.bored.k8slens.dev/healthz
   - name: forums.k8slens.dev
-    url: https://forums.k8slens.dev
+    url: https://forums.k8slens.dev/srv/status
   - name: k8slens.dev
     url: https://k8slens.dev
   - name: k8slens.zendesk.com
