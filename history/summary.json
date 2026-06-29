@@ -135,19 +135,19 @@
     "url": "https://eu.bored.k8slens.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/eu.bored.k8slens.dev.ico",
     "slug": "eu-bored-k8slens-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 0,
-    "timeWeek": 464,
-    "timeMonth": 441,
+    "timeDay": 512,
+    "timeWeek": 471,
+    "timeMonth": 444,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2026-06-29": 10
+      "2026-06-29": 18
     }
   },
   {
@@ -283,23 +283,23 @@
     "url": "https://us.bored.k8slens.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/us.bored.k8slens.dev.ico",
     "slug": "us-bored-k8slens-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 197,
-    "timeDay": 0,
-    "timeWeek": 170,
-    "timeMonth": 157,
+    "timeDay": 235,
+    "timeWeek": 179,
+    "timeMonth": 160,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-09-02": 9,
       "2025-09-21": 23,
       "2025-12-31": 8,
       "2026-02-17": 18,
-      "2026-06-29": 3
+      "2026-06-29": 10
     }
   },
   {
