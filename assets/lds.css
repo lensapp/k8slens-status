@@ -6,39 +6,37 @@
    !important needed. Published to the site root from this repo's assets/ folder.
 
    Revert: delete this file and remove the `theme`/`css` lines in .upptimerc.yml.
-
-   Palette source: LDS dark tokens (primary #3d90ce).
    ============================================================================ */
 :root {
   /* --- Surfaces --------------------------------------------------------- */
-  --body-background-color: #181a1c;   /* lds bg-primary   */
-  --body-text-color: #aaacae;         /* var(--lds-color-text-primary)   */
-  --card-background-color: #252729;   /* lds bg-primary */
-  --card-border-color: #2d2f31;       /* lds border       */
-  --code-background-color: #1b1a1c;   /* lds code-bg      */
-  --code-color: #f1f3f5;              /* lds text-accent  */
+  --body-background-color: #181a1c;
+  --body-text-color: #aaacae;
+  --card-background-color: #252729;
+  --card-border-color: #2d2f31;
+  --code-background-color: #1b1a1c;
+  --code-color: #f1f3f5;
 
   /* --- Navbar ----------------------------------------------------------- */
   --nav-background-color: #181a1c;
   --nav-border-bottom-color: #2d2f31;
-  --nav-current-border-bottom-color: #3d90ce;   /* active tab underline = LDS primary */
+  --nav-current-border-bottom-color: #3d90ce;   /* active tab underline */
 
-  /* --- Status semantics (LDS) ------------------------------------------- */
-  --up-border-left-color: #4caf50;              /* lds success  */
-  --down-border-left-color: #ce3933;            /* lds critical */
-  --degraded-border-left-color: #ff9800;        /* lds warning  */
+  /* --- Status semantics ------------------------------------------------- */
+  --up-border-left-color: #4caf50;
+  --down-border-left-color: #ce3933;
+  --degraded-border-left-color: #ff9800;
   --down-background-color: rgba(206, 57, 51, 0.15);
-  --change-background-color: var(--lds-color-primary, #3d90ce);
+  --change-background-color: #3d90ce;
 
   /* --- Tags / badges ---------------------------------------------------- */
   --tag-color: #ffffff;
-  --tag-up-background-color: var(--lds-color-success, #4caf50);
+  --tag-up-background-color: #4caf50;
   --tag-down-background-color: #ce3933;
   --tag-degraded-background-color: #ff9800;
 
-  /* --- Buttons -> LDS primary ------------------------------------------- */
+  /* --- Buttons ---------------------------------------------------------- */
   --submit-button-background-color: #3d90ce;
-  --submit-button-border-color: #3080b8;        /* lds primary-pressed */
+  --submit-button-border-color: #3080b8;
   --submit-button-color: #ffffff;
   --error-button-background-color: #3d90ce;
   --error-button-border-color: #3080b8;
@@ -166,7 +164,6 @@ h2 + form.f.r {
   isolation: isolate;
   padding: 0px 3px;
   background-color: var(--body-background-color);
-  /* border: 1px solid var(--nav-border-bottom-color); */
   border-radius: 6px;
   gap: 4px;
   top: -7px;
@@ -197,17 +194,15 @@ h2 + form.f.r {
   }
 
   & > div input[type=radio]:checked + label {
-    color: var(--lds-text-color-accent, #f1f3f5);
+    color: #f1f3f5;
     font-weight: normal!important;
-    background: var(--lds-color-surface-selected, #2d2f31);
-    border: 1px solid color-mix(in srgb, var(--lds-color-border, #2d2f31), white 8%);
+    background: #2d2f31;
+    border: 1px solid color-mix(in srgb, #2d2f31, white 8%);
   }
 }
 
 .container .logo img {
   height: 1.4rem!important;
-  /* background-color: red; */
-  /* background-clip: revert-layer; */
 }
 
 .container .logo {
