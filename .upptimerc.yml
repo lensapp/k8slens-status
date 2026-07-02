@@ -73,7 +73,23 @@ status-website:
   # feGaussianBlur stdDeviation = line width; feFlood flood-colors = fill/line;
   # feFuncA slope (0.34) = fill opacity. Injected into <body> so url(#lds-spark) resolves.
   customBodyHtml: |
-    <svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="lds-spark" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feFlood flood-color="#3d90ce" result="fc"/><feComposite in="fc" in2="SourceAlpha" operator="in" result="fs"/><feComponentTransfer in="fs" result="soft"><feFuncA type="linear" slope="0.34"/></feComponentTransfer><feOffset in="SourceAlpha" dy="1" result="dn"/><feComposite in="SourceAlpha" in2="dn" operator="out" result="thin"/><feGaussianBlur in="thin" stdDeviation="0.5" result="b"/><feComponentTransfer in="b" result="ln"><feFuncA type="linear" slope="4" intercept="0"/></feComponentTransfer><feFlood flood-color="#74b4ea" result="lc"/><feComposite in="lc" in2="ln" operator="in" result="line"/><feMerge><feMergeNode in="soft"/><feMergeNode in="line"/></feMerge></filter></svg>
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+      <filter id="lds-spark" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB">
+        <!-- soft translucent LDS-blue fill from the PNG's filled area -->
+        <feFlood flood-color="#3d90ce" result="fc"/>
+        <feComposite in="fc" in2="SourceAlpha" operator="in" result="fs"/>
+        <feComponentTransfer in="fs" result="soft"><feFuncA type="linear" slope="0.34"/></feComponentTransfer>
+        <!-- extract the area's top edge and turn it into a crisp constant-width line -->
+        <feOffset in="SourceAlpha" dy="1" result="dn"/>
+        <feComposite in="SourceAlpha" in2="dn" operator="out" result="thin"/>
+        <feGaussianBlur in="thin" stdDeviation="0.5" result="b"/>
+        <feComponentTransfer in="b" result="ln"><feFuncA type="linear" slope="4" intercept="0"/></feComponentTransfer>
+        <feFlood flood-color="#74b4ea" result="lc"/>
+        <feComposite in="lc" in2="ln" operator="in" result="line"/>
+        <!-- fill underneath, bright line on top -->
+        <feMerge><feMergeNode in="soft"/><feMergeNode in="line"/></feMerge>
+      </filter>
+    </svg>
 
 assignees:
   - stevejr
