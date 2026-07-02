@@ -49,7 +49,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.k8slens.dev
   # baseUrl: /demo-upptime
-  logoUrl: /lens-logo.svg
+  logoUrl: https://status.k8slens.dev/lens-logo.svg
   name: Lens
   introTitle: "**Lens Cloud Service Status**"
   introMessage: This is the status page for all Lens Cloud services
@@ -58,7 +58,7 @@ status-website:
       href: /
     - title: lenshq.io
       href: https://lenshq.io
-  faviconSvg: /lens-logo.svg
+  faviconSvg: https://status.k8slens.dev/lens-logo.svg
   # LDS branding (Lens Design System): force the dark base theme and layer the LDS
   # overrides from assets/lds.css. `css` is injected as the last <style> in <head>,
   # so the @import wins the cascade. assets/* is published to the site root.
