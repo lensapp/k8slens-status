@@ -2,6 +2,12 @@
 owner: lensapp # Your GitHub organization or username, where this repository lives
 repo: k8slens-status # The name of this repository
 
+# LDS branding — recolor the interactive (Chart.js) response-time graphs on the
+# history/incident pages to the LDS primary color. The main-page sparklines are
+# pre-rendered PNGs and are recolored via CSS in assets/lds.css (a filtered layer).
+graphBorderColor: "#3d90ce"
+graphBackgroundColor: "rgba(61, 144, 206, 0.4)"
+
 sites:
   - name: api.k8slens.dev
     url: https://api.k8slens.dev
@@ -43,7 +49,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.k8slens.dev
   # baseUrl: /demo-upptime
-  logoUrl: https://lenshq.io/images/lens-logo-icon.svg
+  logoUrl: /lens-logo.svg
   name: Lens
   introTitle: "**Lens Cloud Service Status**"
   introMessage: This is the status page for all Lens Cloud services
@@ -52,8 +58,23 @@ status-website:
       href: /
     - title: lenshq.io
       href: https://lenshq.io
-  faviconSvg: https://lenshq.io/images/lens-logo-icon.svg
-  
+  faviconSvg: /lens-logo.svg
+  # LDS branding (Lens Design System): force the dark base theme and layer the LDS
+  # overrides from assets/lds.css. `css` is injected as the last <style> in <head>,
+  # so the @import wins the cascade. assets/* is published to the site root.
+  # Revert: delete assets/lds.css and remove the `theme` and `css` lines below.
+  theme: dark
+  css: '@import url("/lds.css");'
+  # SVG filter referenced by assets/lds.css to render LDS-style sparklines on the
+  # response-time charts (a crisp bright line over a soft translucent fill).
+  # It re-floods the chart area as translucent LDS-blue, extracts the top edge,
+  # then blurs+thresholds it (a round brush) into a smooth, CONSTANT-width line
+  # that hugs the curve (uniform on steep & flat alike, no bevel). Tunables:
+  # feGaussianBlur stdDeviation = line width; feFlood flood-colors = fill/line;
+  # feFuncA slope (0.34) = fill opacity. Injected into <body> so url(#lds-spark) resolves.
+  customBodyHtml: |
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="lds-spark" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feFlood flood-color="#3d90ce" result="fc"/><feComposite in="fc" in2="SourceAlpha" operator="in" result="fs"/><feComponentTransfer in="fs" result="soft"><feFuncA type="linear" slope="0.34"/></feComponentTransfer><feOffset in="SourceAlpha" dy="1" result="dn"/><feComposite in="SourceAlpha" in2="dn" operator="out" result="thin"/><feGaussianBlur in="thin" stdDeviation="0.5" result="b"/><feComponentTransfer in="b" result="ln"><feFuncA type="linear" slope="4" intercept="0"/></feComponentTransfer><feFlood flood-color="#74b4ea" result="lc"/><feComposite in="lc" in2="ln" operator="in" result="line"/><feMerge><feMergeNode in="soft"/><feMergeNode in="line"/></feMerge></filter></svg>
+
 assignees:
   - stevejr
 
