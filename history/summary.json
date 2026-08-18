@@ -306,19 +306,20 @@
     "url": "https://v3.recurly.com/subscriptions",
     "icon": "https://icons.duckduckgo.com/ip3/v3.recurly.com.ico",
     "slug": "v3-recurly-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 128,
-    "timeWeek": 160,
-    "timeMonth": 155,
+    "timeDay": 75,
+    "timeWeek": 143,
+    "timeMonth": 151,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-09-30": 10
+      "2025-09-30": 10,
+      "2026-08-18": 1
     }
   }
 ]
