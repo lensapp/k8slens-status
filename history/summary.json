@@ -93,18 +93,20 @@
     "url": "https://docs.k8slens.dev",
     "icon": "https://icons.duckduckgo.com/ip3/docs.k8slens.dev.ico",
     "slug": "docs-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 137,
-    "timeWeek": 184,
-    "timeMonth": 166,
+    "timeDay": 125,
+    "timeWeek": 176,
+    "timeMonth": 164,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-31": 0
+    }
   },
   {
     "name": "downloads.k8slens.dev",
