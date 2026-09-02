@@ -113,21 +113,21 @@
     "url": "https://downloads.k8slens.dev/ide/latest.yml",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.k8slens.dev.ico",
     "slug": "downloads-k8slens-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 441,
-    "timeDay": 5324,
-    "timeWeek": 1661,
-    "timeMonth": 725,
+    "timeDay": 3813,
+    "timeWeek": 1565,
+    "timeMonth": 727,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2025-12-31": 7,
       "2026-06-25": 51,
-      "2026-09-02": 0
+      "2026-09-02": 6
     }
   },
   {
