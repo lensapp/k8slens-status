@@ -20,12 +20,16 @@ sites:
     maxRedirects: 0
   - name: docs.k8slens.dev
     url: https://docs.k8slens.dev
+  - name: docs.lenshq.io
+    url: https://docs.lenshq.io
   - name: downloads.k8slens.dev
     url: https://downloads.k8slens.dev/ide/latest.yml
   - name: eu.bored.k8slens.dev
     url: https://eu.bored.k8slens.dev/healthz
   - name: forums.k8slens.dev
     url: https://forums.k8slens.dev/srv/status
+  - name: hub.lns.run
+    url: https://hub.lns.run
   - name: k8slens.dev
     url: https://k8slens.dev
   - name: k8slens.zendesk.com
