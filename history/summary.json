@@ -8,12 +8,12 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 310,
     "timeDay": 286,
     "timeWeek": 238,
-    "timeMonth": 292,
+    "timeMonth": 297,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-12-03": 28,
@@ -174,16 +174,16 @@
     "url": "https://forums.k8slens.dev/srv/status",
     "icon": "https://icons.duckduckgo.com/ip3/forums.k8slens.dev.ico",
     "slug": "forums-k8slens-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 494,
-    "timeDay": 236,
-    "timeWeek": 301,
-    "timeMonth": 335,
+    "timeDay": 360,
+    "timeWeek": 321,
+    "timeMonth": 340,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-09-30": 24,
@@ -199,7 +199,8 @@
       "2026-04-06": 15,
       "2026-04-30": 39,
       "2026-05-11": 19,
-      "2026-08-26": 17
+      "2026-08-26": 17,
+      "2026-09-29": 1
     }
   },
   {
