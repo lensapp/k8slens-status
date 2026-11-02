@@ -207,19 +207,20 @@
     "url": "https://hub.lns.run",
     "icon": "https://icons.duckduckgo.com/ip3/hub.lns.run.ico",
     "slug": "hub-lns-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1055,
-    "timeDay": 1071,
-    "timeWeek": 1063,
-    "timeMonth": 883,
-    "timeYear": 1055,
+    "time": 1036,
+    "timeDay": 627,
+    "timeWeek": 953,
+    "timeMonth": 861,
+    "timeYear": 1036,
     "dailyMinutesDown": {
-      "2026-09-30": 22
+      "2026-09-30": 22,
+      "2026-11-02": 0
     }
   },
   {
