@@ -1,7 +1,7 @@
 url: https://hub.lns.run
-status: up
-code: 200
-responseTime: 1071
-lastUpdated: 2026-11-01T23:00:34.427Z
+status: down
+code: 503
+responseTime: 183
+lastUpdated: 2026-11-02T00:44:48.778Z
 startTime: 2026-09-22T08:51:20.441Z
 generator: Upptime <https://github.com/upptime/upptime>
